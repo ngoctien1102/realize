@@ -12,6 +12,7 @@ require (
 	github.com/sirupsen/logrus v1.5.0
 	github.com/urfave/cli/v2 v2.2.0
 	github.com/valyala/fasttemplate v1.1.0 // indirect
-	golang.org/x/net v0.0.0-20200425230154-ff2c4b7c35a0
+	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e // indirect
+	golang.org/x/net v0.0.0-20220520000938-2e3eb7b945c2
 	gopkg.in/yaml.v2 v2.2.8
 )
