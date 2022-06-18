@@ -13,6 +13,6 @@ require (
 	github.com/urfave/cli/v2 v2.2.0
 	github.com/valyala/fasttemplate v1.1.0 // indirect
 	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e // indirect
-	golang.org/x/net v0.0.0-20220520000938-2e3eb7b945c2
+	golang.org/x/net v0.0.0-20220520000938-2e3eb7b945c2 // indirect
 	gopkg.in/yaml.v2 v2.2.8
 )
